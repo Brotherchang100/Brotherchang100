@@ -3,4 +3,4 @@ print(33)
 print("ABC")
 print (22+33)
 A=50
-print A
+print (A)
