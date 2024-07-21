@@ -17,13 +17,13 @@ def display_time():
 display_time()
 
 # Function to calculate the addition of two numbers
-def add_numbers():
-    num1 = int(input("Enter the first number: "))
-    num2 = int(input("Enter the second number: "))
-    result = num1 + num2
-    print("The sum is:", result)
+# def add_numbers():
+#   num1 = int(input("Enter the first number: "))
+#   num2 = int(input("Enter the second number: "))
+#   result = num1 + num2
+#   print("The sum is:", result)
 
 # Call the function to calculate the addition
-add_numbers()
+# add_numbers()
 
 
